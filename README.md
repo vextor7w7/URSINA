@@ -1,3 +1,20 @@
+<h1 align="center"> the rats of the games</h1>
+<h3 align="izquierda">DESCRIPCION</h3>
+Este es un grupo que intenta copiar todo juego existente 
+a base de ursina en este caso comenzamos por minecraft.
+
+<h3 align="izquierda">PARTICIPANTES</h3>
+- Diego Paz
+- Victor Casas
+
+<h3 align="izquierda">Instrucciones para ejecutar el proyecto</h3>
+el proyecto puede correr con cualquier version de python que acepte ursina
+- dar f5 para comenzar
+- click derecho romper
+- click izquierdo pones ladrillos
+
+
+<h3 align="izquierda">CODIGO</h3>
 from ursina import *
 from ursina.prefabs.first_person_controller \
   import FirstPersonController
